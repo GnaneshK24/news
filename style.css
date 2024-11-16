@@ -1,0 +1,29 @@
+.Sidebar{
+    padding-top: -10px;
+    margin: 300px;
+    width: 100px;
+
+}
+.tile{
+    font-size: 70px;
+    padding-bottom: -7px;
+    margin-bottom: 10px;
+    margin-left: 40%;
+}
+.hello{
+    display: flex;
+}
+.main{
+    margin-top: 250px;
+    margin-right: 200px;
+}
+.ddd{
+    font-size: 40px;
+}
+.sidecc{
+    padding-top: 290px;
+    margin: 10px;
+    padding-right: 190px;
+    width: 100px;
+
+}
